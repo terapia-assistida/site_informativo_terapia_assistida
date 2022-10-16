@@ -1,0 +1,55 @@
+h1{
+    color:yellow;
+    text-align: center;
+}
+
+p{
+    color:brown;
+    text-align: left;
+}
+
+.introducao{
+    color:blue;
+    text-align: right;
+}
+.topo{
+    background-color: blueviolet;
+    text-align: center;
+    border-style: dotted;
+    border-radius: 1cm;
+    border-color: blue;
+}
+
+body{
+    background-color:red;
+}
+
+#lista-pre-requisitos{
+    color:green;
+    background-color: pink;
+    border-style: groove;
+    border-color: blueviolet;
+    font-size: 22px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+  }
+  .direita, .esquerda{
+      width: 50%;
+      height: auto;
+  }
+
+  .esquerda img {
+      width: 70%;
+      height: auto;
+  }
+
+  .esquerda{
+      float: left;
+  }
+
+  .direita{
+      float: right;
+  }
+
+  .limpa{
+      clear: both;
+  }
